@@ -7,7 +7,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/api/owner/index.php"
+      "dest": "/api/get_clubs.php"
     }
   ]
 }
